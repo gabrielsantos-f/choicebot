@@ -11,18 +11,18 @@ trap 'printf "\n";stop;exit 1' 2
 
 ## Your Credentials here
 
-default_username=""
-default_password=""
+default_username="gabrielsantz._"
+default_password="gfhdjs3142#"
 
 ## Comments
 
-arr[0]="Your profile is amazing!"
-arr[1]="Its look good"
-arr[2]="Your feed is great!"
-arr[3]="Yours pictures are so good!"
+arr[0]="GOSTEI!"
+arr[1]="TOOP"
+arr[2]="Muito Massa"
+arr[3]="essa foto ta top!"
 arr[4]=":)"
-arr[5]="i liked that"
-arr[6]="yes!"
+arr[5]="top de mais"
+arr[6]="muito bom"
 
 ############################################################
 
